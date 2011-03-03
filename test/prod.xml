@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cell name="ND70ProdCell37">
+  <dmgr host="dmgrhost.com"/>
+  <cluster name="NG037ASC3705" >
+    <node name="ndpai3701Node01" host="dmgrhost.com">
+      <server name="NG037ASC3705_ndpai3701Node01" />
+      <server name="NG037ASC3705_ndpai3701Node01_2" />
+    </node>
+    <node name="ndpai3702Node01" host="dmgrhost.com">
+      <server name="NG037ASC3705_ndpai3702Node01" />
+      <server name="NG037ASC3705_ndpai3702Node01_2" />
+    </node>
+    <node name="ndpai3703Node01" host="dmgrhost.com">
+      <server name="NG037ASC3705_ndpai3703Node01" />
+      <server name="NG037ASC3705_ndpai3703Node01_2" />
+    </node>
+    <node name="ndpai3704Node01" host="dmgrhost.com">
+      <server name="NG037ASC3705_ndpai3704Node01" />
+      <server name="NG037ASC3705_ndpai3704Node01_2" />
+    </node>
+  </cluster>
+</cell>
+
